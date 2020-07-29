@@ -1,0 +1,19 @@
+users
+  displayName
+  phoneNumber
+  vehicles: [...]
+  groups: [groups_name]
+groups
+  name (UNIQUE)
+  members (SUBCOLLECTION): currentUser.documentId: {users_displayName, isAdmin}
+notes:
+  groups_name // Groups name is fine because this should always be unique anyway
+  users_id
+  users_displayName
+  message
+  createDate
+patrols:
+  groups_name
+  users: [{users_id, users_displayName}]
+  createDate
+  endDate

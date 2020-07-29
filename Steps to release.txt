@@ -1,0 +1,14 @@
+1: Delete everything in this folder:
+	C:\Francois Eie Files\Persoonlik\Patrola\App\PATROLA\build\app\outputs
+
+2: Change your version number in your pubspec.yaml file (increment the +X number)
+
+3: Run this first build:
+	flutter build appbundle --release --target-platform=android-arm
+
+4: Upload this aab file to Google Play Console
+
+5: Repeat all these steps but this time run this in step 3
+	flutter build appbundle --release --target-platform=android-arm64
+
+6: Make sure you uploaded BOTH the aab files for your new release

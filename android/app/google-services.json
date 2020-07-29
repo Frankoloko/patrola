@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "166310791290",
+    "firebase_url": "https://patrola-demenci.firebaseio.com",
+    "project_id": "patrola-demenci",
+    "storage_bucket": "patrola-demenci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166310791290:android:1949b5e380d49958",
+        "android_client_info": {
+          "package_name": "com.demenci.patrola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166310791290-2o0l5g090g7m3gufbr90309ilgeojpaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demenci.patrola",
+            "certificate_hash": "3dbc8bce4ab512d720b59b2ace1a689641baecb8"
+          }
+        },
+        {
+          "client_id": "166310791290-knokvp3nn3ud97rfabs34ri6tl9g3rbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demenci.patrola",
+            "certificate_hash": "de90f1c2e1e615d831bd6666b5ac22b200ee91dc"
+          }
+        },
+        {
+          "client_id": "166310791290-8plivd8fio2k7ea6s808ci2f31fousg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demenci.patrola",
+            "certificate_hash": "d43d4e67439510695f970bb1e0269e22fc4f8033"
+          }
+        },
+        {
+          "client_id": "166310791290-2v1le5f88pveffq0lgl5164f3d0e6vgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPk5gDOEPF0BNjmzfYwkmLUM-i6gwEcEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166310791290-2v1le5f88pveffq0lgl5164f3d0e6vgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
